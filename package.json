@@ -1,5 +1,5 @@
 {
-  "name": "com.github.siccity.serializablecallback",
+  "name": "com.github.literallyacat.serializablecallback",
   "description": "UnityEvent and System.Func had a child.",
   "version": "1.0.1",
   "unity": "2018.1",
